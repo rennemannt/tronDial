@@ -3,4 +3,4 @@ Simple Tron-themed dial control written in c# and XAML for the Universal Windows
 
 [![Here's how the app looks when working](https://i.ytimg.com/vi/Fn_m8DwIV5s/hqdefault.jpg)](https://youtu.be/Fn_m8DwIV5s "Tron themed Dial in C# XAML") 
 
-The code walk-through can be viewed here: https://youtu.be/OAwhJuISwek
+[![Tron themed Dial code walk-through](https://i.ytimg.com/vi/OAwhJuISwek/hqdefault.jpg)](https://youtu.be/Fn_m8DwIV5s "Tron themed Dial code walk-through") 
