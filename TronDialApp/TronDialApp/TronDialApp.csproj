@@ -89,7 +89,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="images\Software Team Logo.ai" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -100,9 +99,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\tron-city-wallpaper-11395-full-size.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\Team Badges-Software.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

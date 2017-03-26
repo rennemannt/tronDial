@@ -8,7 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Image x:Name="image" Source="images/tron-city-wallpaper-11395-full-size.jpg" Stretch="Fill" d:IsLocked="True">
+        <Image x:Name="image" Source="images/tron-city-wallpaper-11395-full-size.jpg" Stretch="Fill">
             <Image.OpacityMask>
                 <ImageBrush ImageSource="images/tron-city-wallpaper-11395-full-size.jpg"/>
             </Image.OpacityMask>

@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/TronDialApp/.vs/Tron Dial App/v15
-/TronDialApp/.vs/Tron Dial App/v15/.suo
-/TronDialApp/.vs/Tron Dial App/v15
+/.vs/*
+/TronDialApp/.vs/*
+/TronDialApp/TronDialApp/obj/*
+/TronDialApp/TronDialApp/bin/*
